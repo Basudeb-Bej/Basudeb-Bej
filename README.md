@@ -12,3 +12,23 @@
 
 ## 🧰 Tech Stack
 ![Languages](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,python,github)
+
+# Project Title
+
+## 🔗 Live Demo
+[Click here](https://yourprojectlink.com)
+
+## 📜 Description
+Short summary of what this project does.
+
+## 🚀 Tech Stack
+HTML, CSS, JavaScript, Node.js
+
+## 📸 Screenshots
+![image](demo.png)
+
+## 🧠 Lessons Learned
+What you learned or improved while building this.
+
+## 🧪 Run Locally
+```bash
