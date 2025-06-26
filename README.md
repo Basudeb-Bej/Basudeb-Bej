@@ -11,4 +11,4 @@
 ![Basudeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basudeb-bej&show_icons=true&theme=tokyonight)
 
 ## 🧰 Tech Stack
-![Languages](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,python,git,github)
+![Languages](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,python,github)
