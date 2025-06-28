@@ -5,8 +5,8 @@
 ### ✨ About Me
 
 - 🌐 I'm interested in web technologies and real-time app development
-- 🤖 Currently learning **Node.js**, **Socket.IO**, and **MongoDB**
-- 🎓 I'm a BCA (Bachelor of Computer Applications) student, 2nd Year
+- 🤖 Currently learning **PHP with MySQL**, **Socket.IO**, and **OOPs with JAVA**
+- 🎓 I'm a BCA (Bachelor of Computer Applications) student, 3nd Year
 
 ---
 
@@ -14,29 +14,27 @@
 
 - 🛰️ Contributed to **Open Source Projects**
 - 📌 Created multiplayer real-time **Tic-Tac-Toe game**
-- 🛠️ Participated in **college coding hackathons**
 
 ---
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Twitter](https://img.shields.io/badge/X-000000?logo=twitter)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]()
+[![Twitter](https://img.shields.io/badge/X-000000?logo=twitter)]()
 [![Portfolio](https://img.shields.io/badge/Portfolio-16A085?logo=vercel)](https://basudeb-bej.me)
 
 ---
 
 ### 🧠 Skills & Technologies
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,git,github,vscode" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,python,c,cpp,github,vscode" /><br>
 
 ---
 
 ### 🎯 Hobbies & Interests
 
-- 🎵 Listening to Bengali & Hindi classical music  
-- 🏏 Playing cricket – Right-arm fast bowler  
+- 🏡 Gardening 
+- 🏏 Playing games  
 - 🧪 Building web projects and exploring tech  
 
 ---
