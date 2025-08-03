@@ -27,7 +27,7 @@
 
 ### 🧠 Skills & Technologies
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,python,c,cpp,github,vscode" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,python,c,cpp,github,vscode,dsa" /><br>
 
 ---
 
