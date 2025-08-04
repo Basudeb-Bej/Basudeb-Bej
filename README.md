@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Basudeb</h1>
 
 ---
-<!--
+
 ### ✨ About Me
 
 - 🌐 I'm interested in web technologies and real-time app development
@@ -27,7 +27,7 @@
 
 ### 🧠 Skills & Technologies
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,python,c,cpp,github,vscode,dsa" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,python,c,cpp,github,vscode,dsa,os" /><br>
 
 ---
 
@@ -38,14 +38,14 @@
 - 🧪 Building web projects and exploring tech  
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basudeb-bej&show_icons=true&theme=react&hide_title=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=basudeb-bej&theme=react)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basudeb-bej&layout=compact&theme=react)
 
----
+-->
 
 ### 📊 Contribution Graph
 
@@ -58,4 +58,6 @@
 JavaScript       ████████████████████▌     57.56%  
 CSS              █████████▏               29.34%  
 HTML             ██▎                      6.14%  
-Python, C++, Java, EJS - Minor Usage -->
+Python, C++, Java, EJS - Minor Usage
+
+---
