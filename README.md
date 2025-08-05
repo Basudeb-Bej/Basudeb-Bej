@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Basudeb</h1>
 
 ---
-
+<!--
 ### ✨ About Me
 
 - 🌐 I'm interested in web technologies and real-time app development
@@ -51,4 +51,4 @@
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=basudeb-bej&theme=react-dark)
 
----
+-->
