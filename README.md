@@ -5,7 +5,7 @@
 ### ✨ About Me
 
 - 🌐 I'm interested in web technologies and real-time app development
-- 🤖 Currently learning **PHP with MySQL**, **Socket.IO**, and **OOPs with JAVA**
+- 🤖 Currently learning **PHP with MySQL**, and **OOPs with JAVA**
 - 🎓 I'm a BCA (Bachelor of Computer Applications) student, 3nd Year
 
 ---
