@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm Basudeb</h1>
 
 ---
-<!--
 ### ✨ About Me
 
 - 🌐 I'm interested in web technologies and real-time app development
@@ -13,7 +12,6 @@
 ### 🚀 Notable Contributions & Achievements
 
 - 🛰️ Contributed to **Open Source Projects**
-- 📌 Created multiplayer real-time **Tic-Tac-Toe game**
 
 ---
 
@@ -27,7 +25,7 @@
 
 ### 🧠 Skills & Technologies
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,python,c,cpp,github,vscode,dsa,os" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,python,c,cpp,github,vscode,dsa,os,java,php" /><br>
 
 ---
 
@@ -51,4 +49,3 @@
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=basudeb-bej&theme=react-dark)
 
--->
