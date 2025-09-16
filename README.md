@@ -25,7 +25,7 @@
 
 ### 🧠 Skills & Technologies
 
-<img src="https://skillicons.dev/icons?i=c,c++,python,js,java,php,git,gitdesktop,dsa,os" /><br>
+<img src="https://skillicons.dev/icons?i=c,c++,python,js,java,php,git,gitdesktop" /><br>
 
 ---
 
