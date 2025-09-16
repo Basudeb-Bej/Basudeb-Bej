@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Basudeb</h1>
 
----
+<!---
 ### ✨ About Me
 
 - 🌐 I'm interested in web technologies and real-time app development
@@ -42,7 +42,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basudeb-bej&show_icons=true&theme=react&hide_title=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=basudeb-bej&theme=react)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basudeb-bej&layout=compact&theme=react)
-
+-->
 ---
 
 ### 📊 Contribution Graph
