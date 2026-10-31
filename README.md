@@ -129,7 +129,7 @@ flowchart LR
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 06 &nbsp;/&nbsp; GitHub Activity
+## 05 &nbsp;/&nbsp; GitHub Activity
 
 <div align="center">
 
@@ -146,7 +146,7 @@ flowchart LR
 
 <div align="center">
 
-## 07 &nbsp;/&nbsp; Let's Build Something Great
+## 06 &nbsp;/&nbsp; Let's Build Something Great
 
 I'm looking for opportunities where I can ship real products, keep learning, and work with people who care about quality. If that sounds like your team, I'd love to hear from you.
 
