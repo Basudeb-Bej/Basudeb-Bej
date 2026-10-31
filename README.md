@@ -55,7 +55,7 @@
   </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<!--img src="assets/divider.svg" width="100%" alt="" />
 
 ## 03 &nbsp;/&nbsp; Featured Work
 
@@ -136,7 +136,7 @@
   <a href="https://github.com/Basudeb-Bej?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%2015%20repositories-181717?style=for-the-badge&logo=github" alt="All repositories" /></a>
 </div>
 
-<br/>
+<br/-->
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
