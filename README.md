@@ -140,7 +140,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 04 &nbsp;/&nbsp; Tech Arsenal
+## 03 &nbsp;/&nbsp; Tech Arsenal
 
 <table>
   <tr>
@@ -153,11 +153,11 @@
   </tr>
   <tr>
     <td><b>Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb" alt="Database technologies" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database technologies" /></td>
   </tr>
   <tr>
     <td><b>Tools and Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Tools and cloud platforms" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render" alt="Tools and cloud platforms" /></td>
   </tr>
   <tr>
     <td><b>AI / LLM</b></td>
