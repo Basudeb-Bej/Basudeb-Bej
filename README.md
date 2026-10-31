@@ -95,11 +95,9 @@
       <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square" alt="OpenAI API" />
       <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" />
       <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
       <br/>
       <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG" />
       <img src="https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=flat-square" alt="Prompt engineering" />
-      <img src="https://img.shields.io/badge/Embeddings%20%26%20Vector%20Search-16A34A?style=flat-square" alt="Embeddings and vector search" />
       <img src="https://img.shields.io/badge/Tool%20Use-DB2777?style=flat-square" alt="Tool use" />
       <img src="https://img.shields.io/badge/Long--Term%20Memory-F59E0B?style=flat-square" alt="Long-term memory" />
     </td>
@@ -108,7 +106,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 05 &nbsp;/&nbsp; How I Build
+## 04 &nbsp;/&nbsp; How I Build
 
 | Principle | In practice |
 | :-- | :-- |
