@@ -133,12 +133,13 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Basudeb-Bej&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basudeb-Bej&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="GitHub profile details" />
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most used languages" />
+
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repositories per language" />
 
 <img src="https://streak-stats.demolab.com?user=Basudeb-Bej&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Basudeb-Bej&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
 
 </div>
 
