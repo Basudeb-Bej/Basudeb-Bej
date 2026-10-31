@@ -55,97 +55,18 @@
   </tr>
 </table>
 
-<!--img src="assets/divider.svg" width="100%" alt="" />
-
-## 03 &nbsp;/&nbsp; Featured Work
-
-<table>
-  <tr>
-    <td width="28%" valign="top">
-      <h3>🌐 Developer Portfolio</h3>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <br/><br/>
-      <a href="https://basudeb-bej.vercel.app"><b>Live Demo ↗</b></a><br/>
-      <a href="https://github.com/Basudeb-Bej/Basudeb-dev-folio">Source Code</a>
-    </td>
-    <td width="72%" valign="top">
-      A production-deployed full-stack portfolio with a React frontend and an Express and MongoDB backend.
-      <ul>
-        <li>Contact form with server-side validation, saved to MongoDB and delivered as a branded email notification</li>
-        <li>Built-in AI chatbot assistant and dark and light themes</li>
-        <li>CI/CD: frontend on Vercel, API on Render</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="28%" valign="top">
-      <h3>🧠 Quantic</h3>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-      <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG" />
-      <br/><br/>
-      <a href="https://github.com/Basudeb-Bej/Quantic"><b>Source Code ↗</b></a>
-    </td>
-    <td width="72%" valign="top">
-      An AI-powered chatbot built around conversational AI and retrieval-augmented generation.
-      <ul>
-        <li>Long-term memory so conversations keep context</li>
-        <li>Document understanding for answers grounded in your own files</li>
-        <li>Modern React and Vite web interface</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="28%" valign="top">
-      <h3>🏦 Digital Core Banking</h3>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <br/><br/>
-      <a href="https://github.com/Basudeb-Bej/Digital_core_Banking_System"><b>Source Code ↗</b></a>
-    </td>
-    <td width="72%" valign="top">
-      A secure digital banking platform modelled on real banking workflows.
-      <ul>
-        <li>Online account opening with an admin approval workflow</li>
-        <li>Instant fund transfers between accounts</li>
-        <li>Activity tracking for transparency and auditing</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="28%" valign="top">
-      <h3>⛅ Weather-X</h3>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/REST%20API-0EA5E9?style=flat-square" alt="REST API" />
-      <br/><br/>
-      <a href="https://github.com/Basudeb-Bej/Weather-X"><b>Source Code ↗</b></a>
-    </td>
-    <td width="72%" valign="top">
-      A sleek, modern weather app.
-      <ul>
-        <li>Real-time conditions and forecasts</li>
-        <li>Location-based updates in a simple, clean interface</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <a href="https://github.com/Basudeb-Bej?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%2015%20repositories-181717?style=for-the-badge&logo=github" alt="All repositories" /></a>
-</div>
-
-<br/-->
-
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## 03 &nbsp;/&nbsp; Tech Arsenal
 
 <table>
   <tr>
-    <td width="18%"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="Frontend technologies" /></td>
+    <td width="18%"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,python,java,c,cpp,html,css" alt="Programming languages" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" alt="Frontend technologies" /></td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
@@ -156,12 +77,32 @@
     <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database technologies" /></td>
   </tr>
   <tr>
-    <td><b>Tools and Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render" alt="Tools and cloud platforms" /></td>
+    <td><b>OS and Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,postman" alt="Operating system and tools" /></td>
   </tr>
   <tr>
+    <td><b>Cloud and Deploy</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+    </td>
+  </tr>
+    <tr>
     <td><b>AI / LLM</b></td>
-    <td><code>Groq</code> · <code>Google Gemini</code> · <code>RAG</code> · <code>Prompt design</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq" />
+      <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+      <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square" alt="OpenAI API" />
+      <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" />
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+      <br/>
+      <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG" />
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=flat-square" alt="Prompt engineering" />
+      <img src="https://img.shields.io/badge/Embeddings%20%26%20Vector%20Search-16A34A?style=flat-square" alt="Embeddings and vector search" />
+      <img src="https://img.shields.io/badge/Tool%20Use-DB2777?style=flat-square" alt="Tool use" />
+      <img src="https://img.shields.io/badge/Long--Term%20Memory-F59E0B?style=flat-square" alt="Long-term memory" />
+    </td>
   </tr>
 </table>
 
