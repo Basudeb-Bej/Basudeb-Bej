@@ -1,128 +1,228 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0F766E&height=230&section=header&text=Basudeb%20Bej&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20Thoughtful%20Digital%20Products&descAlignY=60&descSize=16&descColor=CBD5E1" width="100%" alt="Basudeb Bej — Full-Stack Developer" />
+<img src="assets/banner.svg" alt="Basudeb Bej, Full-Stack Developer. Open to opportunities." width="100%" />
 
-<a href="https://basudeb-bej.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Basudeb+Bej;Full-Stack+Developer+from+West+Bengal%2C+India;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Exploring+AI%2C+RAG%2C+and+scalable+web+systems" alt="Introduction typing animation" />
-</a>
+<br/>
 
-<p>
-  <a href="https://basudeb-bej.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/basudeb-bej"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://basudeb-bej.vercel.app/contact"><img src="https://img.shields.io/badge/Contact-Get%20in%20Touch-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Basudeb-Bej&label=PROFILE%20VIEWS&color=0F766E&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Basudeb-Bej?label=FOLLOWERS&style=flat-square&color=334155" alt="GitHub followers" />
-</p>
+<a href="https://basudeb-bej.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View%20Live-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/basudeb-bej"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://basudeb-bej.vercel.app/contact"><img src="https://img.shields.io/badge/Hire%20Me-Get%20in%20Touch-16A34A?style=for-the-badge&logo=maildotru&logoColor=white" alt="Hire me" /></a>
+<a href="https://x.com/Basudeb_Bej"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 
 </div>
 
----
+<br/>
 
-## About
+<img src="assets/divider.svg" width="100%" alt="" />
 
-I'm a **full-stack developer** from **West Bengal, India**, interested in building useful, reliable, and thoughtfully designed software. I enjoy working across the stack — shaping intuitive interfaces, designing backend services, integrating databases, and exploring how AI can make applications more capable.
+## 01 &nbsp;/&nbsp; Recruiter Snapshot
 
-My current areas of focus include:
+> **The 10-second version.** Everything you need to decide if we should talk.
 
-- **Full-stack engineering** — developing end-to-end web applications with React, Node.js, Express, and MongoDB.
-- **Applied AI** — exploring conversational AI, retrieval-augmented generation (RAG), document understanding, and memory-enabled experiences.
-- **Backend systems** — building APIs, authentication flows, data models, and workflow-driven applications.
-- **Product experience** — creating responsive interfaces with attention to usability, clarity, and performance.
+| | |
+| :-- | :-- |
+| **Role** | Full-Stack Developer |
+| **Location** | West Bengal, India |
+| **Open to** | Full-time roles · Freelance projects · Collaboration |
+| **Core stack** | React · Vite · Node.js · Express · MongoDB |
+| **Specialty** | AI-powered apps (RAG chatbots), secure backends, automated deployments |
+| **Proof of work** | 15 public repositories · GitHub Achievements: Pull Shark, Quickdraw, YOLO |
+| **Portfolio** | [basudeb-bej.vercel.app](https://basudeb-bej.vercel.app) |
+| **Fastest way to reach me** | [Contact form](https://basudeb-bej.vercel.app/contact) · [LinkedIn](https://www.linkedin.com/in/basudeb-bej) |
 
-I value continuous learning, practical problem-solving, and turning ideas into working products.
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## Selected Projects
-
-A selection of projects that represents the kind of products and engineering problems I enjoy working on.
+## 02 &nbsp;/&nbsp; What I Bring
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>✦ <a href="https://github.com/Basudeb-Bej/Quantic">Quantic</a></h3>
-      <p>An AI chat application focused on contextual conversations, retrieval-augmented generation, long-term memory, and document understanding.</p>
-      <p><sub><strong>Tech:</strong> React 19 · Vite · Node.js · Express · MongoDB · ChromaDB</sub></p>
-      <a href="https://quantic-nu.vercel.app">Live application ↗</a>
+    <td width="25%" valign="top" align="center">
+      <h3>🎨<br/>Frontend</h3>
+      Responsive, accessible interfaces in React and Vite, with dark and light themes and attention to UX details.
     </td>
-    <td width="50%" valign="top">
-      <h3>⌘ <a href="https://github.com/Basudeb-Bej/Basudeb-dev-folio">Developer Portfolio</a></h3>
-      <p>A personal portfolio featuring selected work, an AI assistant, responsive layouts, and a contact workflow connected to a backend service.</p>
-      <p><sub><strong>Tech:</strong> React · Vite · Node.js · Express · MongoDB</sub></p>
-      <a href="https://basudeb-bej.vercel.app">Live portfolio ↗</a>
+    <td width="25%" valign="top" align="center">
+      <h3>⚙️<br/>Backend</h3>
+      REST APIs with Node.js and Express, structured into routes, controllers and models, backed by MongoDB.
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>◈ <a href="https://github.com/Basudeb-Bej/Digital_core_Banking_System">Digital Core Banking System</a></h3>
-      <p>A full-stack banking application exploring account workflows, user operations, administrative approvals, and transaction-related features.</p>
-      <p><sub><strong>Tech:</strong> React 19 · Vite · Node.js · Express · MongoDB</sub></p>
-      <a href="https://github.com/Basudeb-Bej/Digital_core_Banking_System">Explore source ↗</a>
+    <td width="25%" valign="top" align="center">
+      <h3>🤖<br/>AI Integration</h3>
+      Chatbots using LLM APIs, retrieval-augmented generation (RAG) and long-term memory.
     </td>
-    <td width="50%" valign="top">
-      <h3>◉ <a href="https://github.com/Basudeb-Bej/Weather-X">Weather-X</a></h3>
-      <p>A weather application designed to present current conditions and forecast information through a clean, accessible interface.</p>
-      <p><sub><strong>Tech:</strong> JavaScript · REST APIs · Web technologies</sub></p>
-      <a href="https://github.com/Basudeb-Bej/Weather-X">Explore source ↗</a>
+    <td width="25%" valign="top" align="center">
+      <h3>🚀<br/>Delivery</h3>
+      Production deployments on Vercel and Render, with auto-deploy on every push to <code>main</code>.
     </td>
   </tr>
 </table>
 
-<p align="center"><a href="https://github.com/Basudeb-Bej?tab=repositories">Explore all repositories →</a></p>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## Technology & Tools
+## 03 &nbsp;/&nbsp; Featured Work
+
+<table>
+  <tr>
+    <td width="28%" valign="top">
+      <h3>🌐 Developer Portfolio</h3>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <br/><br/>
+      <a href="https://basudeb-bej.vercel.app"><b>Live Demo ↗</b></a><br/>
+      <a href="https://github.com/Basudeb-Bej/Basudeb-dev-folio">Source Code</a>
+    </td>
+    <td width="72%" valign="top">
+      A production-deployed full-stack portfolio with a React frontend and an Express and MongoDB backend.
+      <ul>
+        <li>Contact form with server-side validation, saved to MongoDB and delivered as a branded email notification</li>
+        <li>Built-in AI chatbot assistant and dark and light themes</li>
+        <li>CI/CD: frontend on Vercel, API on Render</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top">
+      <h3>🧠 Quantic</h3>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG" />
+      <br/><br/>
+      <a href="https://github.com/Basudeb-Bej/Quantic"><b>Source Code ↗</b></a>
+    </td>
+    <td width="72%" valign="top">
+      An AI-powered chatbot built around conversational AI and retrieval-augmented generation.
+      <ul>
+        <li>Long-term memory so conversations keep context</li>
+        <li>Document understanding for answers grounded in your own files</li>
+        <li>Modern React and Vite web interface</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top">
+      <h3>🏦 Digital Core Banking</h3>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <br/><br/>
+      <a href="https://github.com/Basudeb-Bej/Digital_core_Banking_System"><b>Source Code ↗</b></a>
+    </td>
+    <td width="72%" valign="top">
+      A secure digital banking platform modelled on real banking workflows.
+      <ul>
+        <li>Online account opening with an admin approval workflow</li>
+        <li>Instant fund transfers between accounts</li>
+        <li>Activity tracking for transparency and auditing</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top">
+      <h3>⛅ Weather-X</h3>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/REST%20API-0EA5E9?style=flat-square" alt="REST API" />
+      <br/><br/>
+      <a href="https://github.com/Basudeb-Bej/Weather-X"><b>Source Code ↗</b></a>
+    </td>
+    <td width="72%" valign="top">
+      A sleek, modern weather app.
+      <ul>
+        <li>Real-time conditions and forecasts</li>
+        <li>Location-based updates in a simple, clean interface</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/Basudeb-Bej?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%2015%20repositories-181717?style=for-the-badge&logo=github" alt="All repositories" /></a>
+</div>
+
+<br/>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 04 &nbsp;/&nbsp; Tech Arsenal
+
+<table>
+  <tr>
+    <td width="18%"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="Frontend technologies" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies" /></td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" alt="Database technologies" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools and Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Tools and cloud platforms" /></td>
+  </tr>
+  <tr>
+    <td><b>AI / LLM</b></td>
+    <td><code>Groq</code> · <code>Google Gemini</code> · <code>RAG</code> · <code>Prompt design</code></td>
+  </tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 05 &nbsp;/&nbsp; How I Build
+
+| Principle | In practice |
+| :-- | :-- |
+| 🛡️ **Validate everything** | Server-side input validation and HTML-escaped output, so user data is never trusted |
+| 🧩 **Fail gracefully** | A contact message is saved first; if email delivery fails, no data is lost and the user is told clearly |
+| 🗂️ **Clean structure** | Backends separated into routes, controllers, models and config for easy maintenance |
+| 🔐 **Secure by default** | Secrets live in environment variables and never in the repository |
+| 🔁 **Ship continuously** | Every push to `main` is built and deployed automatically |
+
+**Architecture of this portfolio**
+
+```mermaid
+flowchart LR
+    A([Visitor]) --> B["React + Vite<br/>Vercel"]
+    B -->|REST API| C["Express API<br/>Render"]
+    C --> D[(MongoDB Atlas)]
+    C --> E["Resend<br/>Email notifications"]
+    C --> F["Groq / Gemini<br/>AI chatbot"]
+```
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 06 &nbsp;/&nbsp; GitHub Activity
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,mongodb,git,github,vscode,vercel&perline=6" alt="Technologies and developer tools" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Basudeb-Bej&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basudeb-Bej&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=Basudeb-Bej&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Basudeb-Bej&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
 
 </div>
 
-| Focus | Technologies |
-| :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript, React, Vite |
-| **Backend** | Node.js, Express.js, REST APIs |
-| **Database** | MongoDB, Mongoose |
-| **AI & Retrieval** | Groq, Google Gemini, RAG, ChromaDB |
-| **Tools & Platforms** | Git, GitHub, VS Code, Vercel, Render |
-
-## GitHub Overview
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
-<a href="https://github.com/Basudeb-Bej">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Basudeb-Bej&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=0F766E&icon_color=0F766E&text_color=64748B" alt="GitHub contribution statistics" />
-</a>
-<a href="https://github.com/Basudeb-Bej">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basudeb-Bej&layout=compact&hide_border=true&theme=transparent&title_color=0F766E&text_color=64748B" alt="Most used programming languages" />
-</a>
+## 07 &nbsp;/&nbsp; Let's Build Something Great
 
-<br />
+I'm looking for opportunities where I can ship real products, keep learning, and work with people who care about quality. If that sounds like your team, I'd love to hear from you.
 
-<img src="https://streak-stats.demolab.com?user=Basudeb-Bej&hide_border=true&theme=transparent&ring=0F766E&fire=0F766E&currStreakLabel=0F766E" alt="GitHub contribution streak" />
+<br/>
 
-</div>
+<a href="https://basudeb-bej.vercel.app/contact"><img src="https://img.shields.io/badge/Send%20a%20Message-7C3AED?style=for-the-badge&logo=maildotru&logoColor=white" alt="Send a message" /></a>
+<a href="https://www.linkedin.com/in/basudeb-bej"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-## Beyond the Code
+<br/><br/>
 
-- I enjoy exploring how software, AI, and thoughtful design come together to solve practical problems.
-- I like learning by building — experimenting with ideas and improving them through implementation.
-- I'm interested in collaborating on meaningful projects and learning from other developers.
+<sub>Thanks for stopping by. ⭐ A star on a project goes a long way.</sub>
 
-## Let's Connect
+<br/><br/>
 
-I'm open to **interesting projects, collaboration, and opportunities** where I can contribute, learn, and grow as a developer.
-
-<div align="center">
-
-<a href="https://basudeb-bej.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/basudeb-bej"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/Basudeb_Bej"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://basudeb-bej.vercel.app/contact"><img src="https://img.shields.io/badge/Email%20%2F%20Contact-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
-
-<br /><br />
-
-<sub>Designed with care · Built with curiosity · Always learning</sub>
+<img src="https://img.shields.io/github/followers/Basudeb-Bej?label=Followers&style=flat-square&color=7C3AED" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=Basudeb-Bej&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views" />
 
 </div>
